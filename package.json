@@ -1,0 +1,22 @@
+{
+  "name": "vanilla-typescript",
+  "version": "1.0.0",
+  "description": "JavaScript and TypeScript example starter project",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@types/d3": "6.3.0",
+    "d3": "6.5.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "typescript": "^4.2.2"
+  },
+  "keywords": [
+    "typescript",
+    "javascript"
+  ]
+}
